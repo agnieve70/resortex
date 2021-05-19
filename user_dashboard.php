@@ -1,4 +1,4 @@
-<?php 
+<?php
     session_start();
     include "./header.php"; 
     include "./class/resort.php";
@@ -8,9 +8,9 @@
     <?php include "./navbar.php"; ?>
 
     <div class="container">
-        <?php echo $_SESSION['user_id'] ?>
+
     </div>
-    
+
     <br>
 <?php include "./footer.php";?>
 
