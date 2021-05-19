@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/902495.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 4.5rem;
+    text-shadow: 2px 2px 4px #000000;
+    color: #01a0fc !important;
+}
